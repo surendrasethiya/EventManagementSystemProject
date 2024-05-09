@@ -23,7 +23,7 @@ const app = express();
 
 app.use(cors({
   origin: '*', // Set the origin to allow requests from any origin
-  credentials: true,
+  
 }));
 
 // app.use(cors({ origin: "*" }));
