@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37c8b447.css",
+    "main.js": "/static/js/main.196e951b.js",
+    "static/media/searchBackground.jpg": "/static/media/searchBackground.f658d4ffe39b9048b8e3.jpg",
+    "static/media/error.jpg": "/static/media/error.38bb48d09aa768bdc2d4.jpg",
+    "static/media/venueSearch.jpg": "/static/media/venueSearch.f86b363a996bd0fb8789.jpg",
+    "static/media/5starvenue.jpg": "/static/media/5starvenue.bf41e2bfa44655c8f68b.jpg",
+    "index.html": "/index.html",
+    "main.37c8b447.css.map": "/static/css/main.37c8b447.css.map",
+    "main.196e951b.js.map": "/static/js/main.196e951b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37c8b447.css",
+    "static/js/main.196e951b.js"
+  ]
+}
